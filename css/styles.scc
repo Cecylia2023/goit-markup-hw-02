@@ -1,0 +1,15 @@
+/*Скидання дефолтних стилів*/
+.logo,
+.main-nav-link,
+.contacts-link {
+    text-decoration: none; 
+}
+ul {
+    list-style-type: none;
+}
+/* для кнопки */
+button {
+    cursor: pointer;
+}
+
+
