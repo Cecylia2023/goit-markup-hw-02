@@ -95,10 +95,11 @@ text-align: center;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
+    background-color: #4D5AE5;
     }
     .order-service-btn:hover,
     .order-service-btn:focus {
-        background-color: #4D5AE5;
+        background-color: #404BBF;    
     }
 
 
