@@ -39,7 +39,7 @@ color: #434455;
 
 /*========HEADER STYLES========*/
 .logotype {
-font-family: Raleway,sans-serif;
+font-family: "Raleway", sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 1.17;
@@ -90,16 +90,16 @@ text-align: center;
     color: #FFFFFF;
 }
 .order-service-btn {    
-font-size: 16px;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #FFFFFF;
-}
-.order-service-btn:hover,
-.order-service-btn:focus {
-    background-color: #404BBF;
-}
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    }
+    .order-service-btn:hover,
+    .order-service-btn:focus {
+        background-color: #4D5AE5;
+    }
 
 
 /*========HERO STYLES========*/
@@ -113,7 +113,7 @@ color: #FFFFFF;
 .our-team {
     background: #F4F4FD;
 }
-.our-team-list {
+.our-team-list-item {
     background-color: #FFFFFF;
 }
 /*========OUR  TEAM========*/
