@@ -87,20 +87,21 @@ font-weight: 700;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
-    color: #FFFFFF;
+color: #FFFFFF;
 }
-.order-service-btn {    
+.order-service-btn {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;    
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #FFFFFF;
-    background-color: #4D5AE5;
-    }
-    .order-service-btn:hover,
-    .order-service-btn:focus {
-        background-color: #404BBF;    
-    }
+}
+.order-service-btn:hover,
+.order-service-btn:focus {
+    background-color: #404BBF;    
+}
 
 
 /*========HERO STYLES========*/
